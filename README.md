@@ -3,7 +3,11 @@ Creating a locker door from plywood and fabricating with the assembly of the nec
 
 ## Production process
 
+Marking and cutting out a plywood door 
+
 ![photo_2022-11-24_02-31-38](https://user-images.githubusercontent.com/114690482/203849530-3ac9e1bc-b51f-413d-9018-0901163d5cb2.jpg)
+
+Door assembly printing
 
 ![photo_2022-11-24_02-32-09](https://user-images.githubusercontent.com/114690482/203849547-70278cbb-f537-4e22-8e84-ec9dd22fd02e.jpg)
 
